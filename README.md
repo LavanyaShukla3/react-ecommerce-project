@@ -5,25 +5,25 @@ A responsive React e-commerce website built as a 3-day learning project. ShopRea
 ShopReact is a modern e-commerce platform that allows users to browse products, view product details, filter products by category, and manage their shopping cart. The project demonstrates fundamental and intermediate React concepts through practical implementation.
 
 # Pages
-# Home Page
+## Home Page
 
-Featured product showcase
-Quick access to product categories
-Navigation to all products
+1.Featured product showcase
+2.Quick access to product categories
+3.Navigation to all products
 
-# Products Page
+## Products Page
 
-Complete product catalog
-Category filtering system
-Search functionality for finding specific products
-"No products found" state management
+1.Complete product catalog
+2.Category filtering system
+3.Search functionality for finding specific products
+4."No products found" state management
 
-# Product Detail Page
+## Product Detail Page
 
-Comprehensive product information
-Image, price, rating, and stock information
-"Add to Cart" functionality
-Related products section
+1.Comprehensive product information
+2.Image, price, rating, and stock information
+3."Add to Cart" functionality
+4.Related products section
 
 # Key Features
 
